@@ -8,8 +8,6 @@ int b = 0;  // the player's y location
 int x = 0;  // the player's previous x location
 int y = 0;  // the player's previous y location
 int level = 0; // the level of the game 
-int mlx; 
-int mly;
 
 int map0[10][10] = 
 {
